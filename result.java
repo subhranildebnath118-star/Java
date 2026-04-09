@@ -37,7 +37,7 @@ class Result extends Student implements Exam {
 }
 
 
-public class Main {
+public class result {
     public static void main(String[] args) {
         Result r = new Result();
 
